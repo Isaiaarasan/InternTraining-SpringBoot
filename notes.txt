@@ -1,0 +1,64 @@
+SPRINGBOO:
+	It is the Project of Spring Framework
+API-Application programming interface
+|
+|->REST-(REpresentational State Transfer)
+|	Backend code
+|	TYPES:
+|	Stateful, Stateless
+|->GET
+|->POST
+|->PUT
+|->DELETE
+
+SPRING
+1.Framework.
+2.xml codename heavy.
+3.Manual setup in the project.
+
+SPRINGBOOT
+1.Project.
+2.xml code sources is less.
+3.Auto setup in the project(with Spring Initializer). 
+
+
+TOTAL SETUP:
+	spring boot application 
+		|
+	MySQL create datamase
+		|
+	postman connection
+
+WORKING:
+
+	1.codebase
+	2.run
+		----------------------------------------------------------
+		|							 |
+	3.client|<=>controller <=> services <=>	Repository <=>	Database |--->server
+		|		       ||				 |
+		-----------------------||---------------------------------
+				       ||==>Purlie for biasness logics
+
+
+STRUCTURE:
+	|->Springboort application
+        |->Controllers
+	|->Services
+	|->Repositories
+
+
+REQUEST:
+	|->GET
+	|->PUT
+	|->POST
+	|->DELETE
+
+
+
+
+
+
+
+
+
